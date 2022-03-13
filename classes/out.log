@@ -1,0 +1,4 @@
+tot_step	 phi	 maxoverlap 	 q6lmean	 tol1 	 tol2 	 changeRflag
+0000000000	0.524	2.201	0.093	0.200	0.150	changeRflag	False
+0000000000	0.400	1.879	0.093	0.200	0.150	changeRflag	True
+0000000000	0.631	0.001	0.031	0.200	0.150	changeRflag	False
